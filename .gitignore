@@ -1,0 +1,23 @@
+# Arquivos de código compilado
+*.pyc
+
+# Diretório de ambiente virtual
+venv/
+
+# Arquivos de ambiente
+*.env
+
+# Diretório de cache
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.db
+
+# Configurações do IDE
+.idea/
+
+# Arquivos de swap
+*.swp
